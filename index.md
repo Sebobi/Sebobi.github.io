@@ -21,6 +21,10 @@ Code Snippet coming soon
 
 Pixel-art RPG made in Unity.
 
+![RPG](https://raw.githubusercontent.com/Sebobi/Sebobi.github.io/master/RPG.png)
+
+![RPGSprite](https://raw.githubusercontent.com/Sebobi/Sebobi.github.io/master/RpgSprite.png)
+
 Demo coming soon
 
 ### Castle Defense
