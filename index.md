@@ -36,14 +36,18 @@ Demo coming soon
 ## School Projects
 These are the projects I've done as part of courses at KTH.
 
+### Master's Thesis on Hydraulic erosion on 3D data.
+
+Coming soon
+
+### Bachelor's degree Low-clue Sudoku Finder 
+
+Coming soon
+
 ### Tower Defense
 
 Coming soon
 
-### Firestone
-
-Coming soon
-
-### Low-clue Sudoku Finder 
+### Firestone - Hearthstone clone
 
 Coming soon
